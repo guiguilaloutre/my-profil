@@ -1,0 +1,48 @@
+body{
+	background-color:rgba(221, 160, 221, 0.5);
+	color: darkcyan;
+	font-family: bangla MN;
+}
+h1 {
+	color: darkcyan;
+	margin: 50 auto;
+	margin-top: 35px;
+	text-shadow:0 0 25px rgba(0, 139, 139, 0.7);
+}
+h2 {
+	color: darkcyan;
+	border: 10px solid; 
+	border-radius: 70% ;
+	color: mediumpurple;
+}
+div{
+	width: 75%;
+	margin: 0 auto;
+}
+img{
+	width: 25%;
+}
+div{
+	text-align: center;
+	background-color: white;
+	box-shadow: 0 0 25px rgba(0, 139, 139, 0.5);
+	margin-top: 50px;
+	padding: 20px;
+}
+ul {
+	list-style: none;
+	padding-left: 0px;
+}
+.list-inline li {
+	display: inline;
+	padding: 10px;
+	font-size: 25px;
+}
+.list-inline a {
+	text-decoration: none;
+}
+.list-inline i {
+	font-size: 50px;
+	color: rgba(0, 139, 139, 0.5);
+
+
